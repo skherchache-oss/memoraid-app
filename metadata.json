@@ -1,0 +1,7 @@
+{
+  "name": "MEMORAIDv2",
+  "description": "An intelligent personal learning assistant that transforms links, text, or keywords into structured, personalized, and lasting knowledge through cognitive capsules, spaced repetition, and AI coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
