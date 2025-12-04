@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Styles globaux personnalisés */
 body {
   font-family: 'Inter', sans-serif;
   overscroll-behavior-y: none;
@@ -13,7 +12,6 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
 
-/* Masquer la scrollbar tout en permettant le scroll */
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
